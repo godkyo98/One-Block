@@ -1,0 +1,33 @@
+{
+  "parent": "obs:ob/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:villager_spawn_egg"
+    },
+    "title": {
+      "text": "Nông Trại của tôi"
+    },
+    "description": {
+      "text": "Trao đổi 1 mob từ thương nhân"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "item": {
+          "tag": "obs:spawn_eggs"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ]
+}

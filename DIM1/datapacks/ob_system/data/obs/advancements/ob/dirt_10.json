@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Thế giới này là của bạn"
+        },
+        "description": {
+            "text": "Đặt 100000 khối đất"
+        },
+        "icon": {
+            "item": "minecraft:dirt"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "phase1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "obs:ob/dirt_9"
+}

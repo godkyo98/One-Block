@@ -1,0 +1,24 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Sự Mở Rộng Địa Ngục"
+        },
+        "description": {
+            "text": "Đặt 100 netherrack"
+        },
+        "icon": {
+            "item": "minecraft:netherrack"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "phase1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "obs:ob/obsidian"
+}
