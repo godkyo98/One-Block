@@ -133,6 +133,56 @@
               "tag": "{display:{Name:'{\"text\":\"Llama\",\"italic\":false}',Lore:['{\"text\":\"-The Trader will arrive with the mob next time they visit\",\"color\":\"gray\",\"italic\":false}']}}"
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sniffer_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Sniffer\",\"italic\":false}',Lore:['{\"text\":\"-The Trader will arrive with the mob next time they visit\",\"color\":\"gray\",\"italic\":false}']}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:rabbit_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Rabbit\",\"italic\":false}',Lore:['{\"text\":\"-The Trader will arrive with the mob next time they visit\",\"color\":\"gray\",\"italic\":false}']}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:horse_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Horse\",\"italic\":false}',Lore:['{\"text\":\"-The Trader will arrive with the mob next time they visit\",\"color\":\"gray\",\"italic\":false}']}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:villager_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Villager\",\"italic\":false}',Lore:['{\"text\":\"-The Trader will arrive with the mob next time they visit\",\"color\":\"gray\",\"italic\":false}']}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:allay_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Allay\",\"italic\":false}',Lore:['{\"text\":\"-The Trader will arrive with the mob next time they visit\",\"color\":\"gray\",\"italic\":false}']}}"
+            }
+          ]
         }
       ]
     }
