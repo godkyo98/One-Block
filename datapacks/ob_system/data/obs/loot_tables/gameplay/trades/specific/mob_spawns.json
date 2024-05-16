@@ -183,6 +183,36 @@
               "tag": "{display:{Name:'{\"text\":\"Allay\",\"italic\":false}',Lore:['{\"text\":\"-The Trader will arrive with the mob next time they visit\",\"color\":\"gray\",\"italic\":false}']}}"
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bee_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Bee\",\"italic\":false}',Lore:['{\"text\":\"-The Trader will arrive with the mob next time they visit\",\"color\":\"gray\",\"italic\":false}']}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:panda_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Panda\",\"italic\":false}',Lore:['{\"text\":\"-The Trader will arrive with the mob next time they visit\",\"color\":\"gray\",\"italic\":false}']}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:fox_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Fox\",\"italic\":false}',Lore:['{\"text\":\"-The Trader will arrive with the mob next time they visit\",\"color\":\"gray\",\"italic\":false}']}}"
+            }
+          ]
         }
       ]
     }

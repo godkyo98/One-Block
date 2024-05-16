@@ -13,6 +13,9 @@
     "minecraft:rabbit_spawn_egg",    
     "minecraft:horse_spawn_egg",    
     "minecraft:villager_spawn_egg",  
-    "minecraft:allay_spawn_egg"  
+    "minecraft:allay_spawn_egg",
+    "minecraft:bee_spawn_egg",
+    "minecraft:panda_spawn_egg",
+    "minecraft:fox_spawn_egg"
   ]
 }

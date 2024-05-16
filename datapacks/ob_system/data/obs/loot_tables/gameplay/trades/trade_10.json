@@ -10,6 +10,18 @@
           {
             "type": "minecraft:loot_table",
             "name": "obs:gameplay/trades/specific/mob_spawns"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "obs:gameplay/trades/specific/blocks_2"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "obs:gameplay/trades/specific/crops_2"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "obs:gameplay/trades/specific/ores"
           }
         ]
       }
