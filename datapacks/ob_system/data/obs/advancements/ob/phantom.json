@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Ơ có phantom ư!!!"
+            "translate": "advancements.op.phantom.title"
         },
         "description": {
-            "text": "Giết Phantom"
+            "translate": "advancements.op.phantom.description"
         },
         "icon": {
             "item": "minecraft:phantom_membrane"

@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Ám Ảnh Bởi Hắc diện thạch"
+            "translate": "advancements.op.obsidian.title"
         },
         "description": {
-            "text": "Sở hữu Hắc diện thạch"
+            "translate": "advancements.op.obsidian.description"
         },
         "icon": {
             "item": "minecraft:obsidian"

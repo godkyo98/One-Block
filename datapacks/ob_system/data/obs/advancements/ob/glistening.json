@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Lấp lánh"
+            "translate": "advancements.op.glistening.title"
         },
         "description": {
-            "text": "Sở hữu phôi vàng"
+            "translate": "advancements.op.glistening.description"
         },
         "icon": {
             "item": "minecraft:gold_ingot"

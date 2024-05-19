@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Á á Cẩn thận nó nổ"
+            "translate": "advancements.op.creeper.title"
         },
         "description": {
-            "text": "Giết creeper"
+            "translate": "advancements.op.creeper.description"
         },
         "icon": {
             "item": "minecraft:gunpowder"

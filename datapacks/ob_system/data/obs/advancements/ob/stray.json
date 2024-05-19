@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "CÓ phải mèo không?"
+            "translate": "advancements.op.stray.title"
         },
         "description": {
-            "text": "Giết Quái lang thang"
+            "translate": "advancements.op.stray.description"
         },
         "icon": {
             "item": "minecraft:bone"

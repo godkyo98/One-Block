@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Mảnh đất rộng lớn"
+            "translate": "advancements.op.dirt_6.title"
         },
         "description": {
-            "text": "Đặt 2500 khối đất"
+            "translate": "advancements.op.dirt_6.description"
         },
         "icon": {
             "item": "minecraft:dirt"

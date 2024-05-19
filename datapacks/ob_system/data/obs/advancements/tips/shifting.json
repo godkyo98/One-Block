@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Trượt chân"
+            "translate": "advancements.tips.shifting.title"
         },
         "description": {
-            "text": "Khi phá khối, hãy ngồi xổm để tránh bị ngã"
+            "translate": "advancements.tips.shifting.description"
         },
         "icon": {
             "item": "minecraft:grass_block"

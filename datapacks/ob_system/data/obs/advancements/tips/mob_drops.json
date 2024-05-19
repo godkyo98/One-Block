@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Rơi ra!"
+            "translate": "advancements.tips.mob_drops.title"
         },
         "description": {
-            "text": "Có những mob rơi ra đồ lạ"
+            "translate": "advancements.tips.mob_drops.description"
         },
         "icon": {
             "item": "minecraft:creeper_head"

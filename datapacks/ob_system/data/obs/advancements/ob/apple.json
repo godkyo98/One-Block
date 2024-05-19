@@ -5,10 +5,10 @@
       "item": "minecraft:apple"
     },
     "title": {
-      "text": "Quả táo ư!"
+      "translate": "advancements.op.apple.title"
     },
     "description": {
-      "text": "Sở hữu 16 quả táo"
+      "translate": "advancements.op.apple.description"
     },
     "frame": "task",
     "show_toast": true,

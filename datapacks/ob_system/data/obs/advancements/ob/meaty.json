@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Thịt là chân ái!"
+            "translate": "advancements.op.meaty.title"
         },
         "description": {
-            "text": "Ăn 64 thịt heo chín"
+            "translate": "advancements.op.meaty.description"
         },
         "icon": {
             "item": "minecraft:cooked_porkchop"

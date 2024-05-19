@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Sự Mở Rộng Địa Ngục"
+            "translate": "advancements.op.nether_expansion.title"
         },
         "description": {
-            "text": "Đặt 100 netherrack"
+            "translate": "advancements.op.nether_expansion.description"
         },
         "icon": {
             "item": "minecraft:netherrack"

@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Liệu đó có phải là một sai lầm?"
+            "translate": "advancements.op.button.title"
         },
         "description": {
-            "text": "Sở hữu nút gỗ sồi"
+            "translate": "advancements.op.button.description"
         },
         "icon": {
             "item": "minecraft:oak_button"

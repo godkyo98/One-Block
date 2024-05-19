@@ -2,10 +2,10 @@
 {
 "display": {
     "title": {
-        "text": "Vùng đất rộng lớn"
+        "translate": "advancements.op.dirt_7.title"
     },
     "description": {
-        "text": "Đặt 5000 khối đất"
+        "translate": "advancements.op.dirt_7.description"
     },
     "icon": {
         "item": "minecraft:dirt"

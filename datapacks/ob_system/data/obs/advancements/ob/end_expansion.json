@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Chào mừng đến với The End"
+            "translate": "advancements.op.end_expansion.title"
         },
         "description": {
-            "text": "Đặt 100 đá End"
+            "translate": "advancements.op.end_expansion.description"
         },
         "icon": {
             "item": "minecraft:end_stone"

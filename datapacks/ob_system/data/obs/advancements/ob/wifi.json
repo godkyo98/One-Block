@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Kết nối"
+            "translate": "advancements.op.wifi.title"
         },
         "description": {
-            "text": "Đặt cảm biến sculk"
+            "translate": "advancements.op.wifi.description"
         },
         "icon": {
             "item": "minecraft:sculk_sensor"

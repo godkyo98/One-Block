@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Vũ khí xứng tầm"
+            "translate": "advancements.op.weapon.title"
         },
         "description": {
-            "text": "Chế tạo kiếm sắt"
+            "translate": "advancements.op.weapon.description"
         },
         "icon": {
             "item": "minecraft:iron_sword"

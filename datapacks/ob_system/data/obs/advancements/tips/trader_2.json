@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Luôn trao đổi"
+            "translate": "advancements.tips.trader_2.title"
         },
         "description": {
-            "text": "Cứ khoảng mỗi 128 khối được khai thác, sẽ có một thương nhân đến gặp bạn để trao đổi những món đồ khó kiếm hơn"
+            "translate": "advancements.tips.trader_2.description"
         },
         "icon": {
             "item": "minecraft:emerald_block"

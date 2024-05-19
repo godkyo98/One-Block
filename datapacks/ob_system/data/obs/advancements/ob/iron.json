@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Iron man 🤣"
+            "translate": "advancements.op.iron.title"
         },
         "description": {
-            "text": "Sở hữu hạt sắt"
+            "translate": "advancements.op.iron.description"
         },
         "icon": {
             "item": "minecraft:iron_nugget"

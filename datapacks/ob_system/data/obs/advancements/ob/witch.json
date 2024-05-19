@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Phù thủy"
+            "translate": "advancements.op.witch.title"
         },
         "description": {
-            "text": "Giết phù thủy"
+            "translate": "advancements.op.witch.description"
         },
         "icon": {
             "item": "minecraft:stick"

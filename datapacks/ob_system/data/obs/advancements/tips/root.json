@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Gợi ý"
+            "translate": "advancements.tips.root.title"
         },
         "description": {
-            "text": "Hướng dẫn cho người mới"
+          "translate": "advancements.tips.root.description"
         },
         "icon": {
             "item": "minecraft:gold_nugget"

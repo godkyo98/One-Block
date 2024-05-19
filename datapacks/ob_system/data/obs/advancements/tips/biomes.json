@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Mở rộng tầm nhìn"
+            "translate": "advancements.tips.biomes.title"
         },
         "description": {
-            "text": "Có những khu vực khác ở một số nơi khác. Hãy tìm chúng"
+            "translate": "advancements.tips.biomes.description"
         },
         "icon": {
             "item": "minecraft:oak_sapling"

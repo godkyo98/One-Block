@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Mang Ngọc Lục Bảo Về Nhà"
+            "translate": "advancements.tips.trader.title"
         },
         "description": {
-            "text": "Mỗi giai đoạn đều đưa một thương nhân đến cho hết ngày hôm đó rồi họ lại rời đi"
+            "translate": "advancements.tips.trader.description"
         },
         "icon": {
             "item": "minecraft:emerald"

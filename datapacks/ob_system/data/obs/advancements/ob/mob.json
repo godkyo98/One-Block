@@ -5,10 +5,10 @@
       "item": "minecraft:villager_spawn_egg"
     },
     "title": {
-      "text": "Nông Trại của tôi"
+      "translate": "advancements.op.mob.title"
     },
     "description": {
-      "text": "Trao đổi 1 mob từ thương nhân"
+      "translate": "advancements.op.mob.description"
     },
     "frame": "task",
     "show_toast": true,

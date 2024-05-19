@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Ơ kìa con cừu"
+            "translate": "advancements.op.holy_cow.title"
         },
         "description": {
-            "text": "Giết cừu"
+            "translate": "advancements.op.holy_cow.description"
         },
         "icon": {
             "item": "minecraft:beef"

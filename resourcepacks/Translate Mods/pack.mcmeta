@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "supported_formats": [
+      1,
+      22
+    ],
+    "description": "Adds lang for One Block"
+  }
+}

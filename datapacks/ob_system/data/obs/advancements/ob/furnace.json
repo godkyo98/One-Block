@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Bạn nấu gì đó?"
+            "translate": "advancements.op.furnace.title"
         },
         "description": {
-            "text": "Sở hữu lò nung"
+            "translate": "advancements.op.furnace.description"
         },
         "icon": {
             "item": "minecraft:furnace"

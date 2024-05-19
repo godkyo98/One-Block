@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Chó Husky hay Quái Khô Tàn?"
+            "translate": "advancements.op.husk.title"
         },
         "description": {
-            "text": "Giết quái khô tàn"
+            "translate": "advancements.op.husk.description"
         },
         "icon": {
             "item": "minecraft:rotten_flesh"

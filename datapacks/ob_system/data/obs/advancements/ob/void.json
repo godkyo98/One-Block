@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Rơi xuống vực thẳm"
+            "translate": "advancements.op.void.title"
         },
         "description": {
-            "text": "Rơi xuống vùng vô tận"
+            "translate": "advancements.op.void.description"
         },
         "icon": {
             "item": "minecraft:black_concrete"

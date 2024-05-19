@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Sushi!"
+            "translate": "advancements.op.sushi.title"
         },
         "description": {
-            "text": "Ăn 64 Tảo bẹ khô"
+            "translate": "advancements.op.sushi.description"
         },
         "icon": {
             "item": "minecraft:dried_kelp"

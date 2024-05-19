@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Kết Thúc Chuyến Tham Quan"
+            "translate": "advancements.op.ender.title"
         },
         "description": {
-            "text": "Giết một enderman ở mỗi chiều không gian"
+            "translate": "advancements.op.ender.description"
         },
         "icon": {
             "item": "minecraft:ender_pearl"

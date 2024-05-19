@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Những mob thân thiện"
+            "translate": "advancements.tips.spawns.title"
         },
         "description": {
-            "text": "Mob thân thiện vẫn xuất hiện, nhưng bạn cần một nền cỏ và rất nhiều kiên nhẫn"
+            "translate": "advancements.tips.spawns.description"
         },
         "icon": {
             "item": "minecraft:beef"

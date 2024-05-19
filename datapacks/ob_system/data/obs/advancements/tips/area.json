@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Lát Cắt Không Gian"
+            "translate": "advancements.tips.area.title"
         },
         "description": {
-            "text": "Bạn có thể mở rộng biên giới thế giới bằng cách đào khối"
+            "translate": "advancements.tips.area.description"
         },
         "icon": {
             "item": "minecraft:barrier"

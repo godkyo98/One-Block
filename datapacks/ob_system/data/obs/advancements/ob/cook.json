@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Biết vô bếp rồi ư!"
+            "translate": "advancements.op.cook.title"
         },
         "description": {
-            "text": "Nướng thịt bò"
+            "translate": "advancements.op.cook.description"
         },
         "icon": {
             "item": "minecraft:cooked_beef"

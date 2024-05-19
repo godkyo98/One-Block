@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Mùa hè ấm"
+            "translate": "advancements.op.magma.title"
         },
         "description": {
-            "text": "Sở hữu khối dung nham"
+            "translate": "advancements.op.magma.description"
         },
         "icon": {
             "item": "minecraft:magma_block"

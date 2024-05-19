@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Bách khoa toàn thư"
+            "translate": "advancements.tips.recipes.title"
         },
         "description": {
-            "text": "Bạn có thể xem các công thức chế tạo tùy chỉnh trong sách công thức"
+            "translate": "advancements.tips.recipes.description"
         },
         "icon": {
             "item": "minecraft:knowledge_book"

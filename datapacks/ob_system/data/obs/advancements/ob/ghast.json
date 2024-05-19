@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Săn lùng Ghast"
+            "translate": "advancements.op.ghast.title"
         },
         "description": {
-            "text": "Giết ghast"
+            "translate": "advancements.op.ghast.description"
         },
         "icon": {
             "item": "minecraft:ghast_tear"

@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Ngọt nước"
+            "translate": "advancements.op.milk.title"
         },
         "description": {
-            "text": "Lấy sữa từ bò"
+            "translate": "advancements.op.milk.description"
         },
         "icon": {
             "item": "minecraft:milk_bucket"

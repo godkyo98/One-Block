@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Bước 5"
+            "translate": "advancements.phases.phase_5.title"
         },
         "description": {
-            "text": "Đào khối 1500 lần"
+            "translate": "advancements.phases.phase_5.description"
         },
         "icon": {
             "item": "minecraft:slime_ball"

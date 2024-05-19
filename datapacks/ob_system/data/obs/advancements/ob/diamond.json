@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Đại gia"
+            "translate": "advancements.op.diamond.title"
         },
         "description": {
-            "text": "Sở hữu kim cương"
+            "translate": "advancements.op.diamond.description"
         },
         "icon": {
             "item": "minecraft:diamond"

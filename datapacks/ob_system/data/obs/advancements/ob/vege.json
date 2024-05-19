@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Người ăn chay"
+            "translate": "advancements.op.vege.title"
         },
         "description": {
-            "text": "Ăn 64 cà rốt"
+            "translate": "advancements.op.vege.description"
         },
         "icon": {
             "item": "minecraft:carrot"

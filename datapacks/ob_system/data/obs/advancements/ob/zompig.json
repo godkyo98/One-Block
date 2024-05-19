@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Lợn kia quỳ xuống!!!!"
+            "translate": "advancements.op.zompig.title"
         },
         "description": {
-            "text": "Giết 50 piglins thây ma"
+            "translate": "advancements.op.zompig.description"
         },
         "icon": {
             "item": "minecraft:porkchop"

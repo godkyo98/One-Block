@@ -2,10 +2,10 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Ơ đi bơi ư!!!"
+            "translate": "advancements.op.drowned.title"
         },
         "description": {
-            "text": "Giết Kẻ đuối nước"
+            "translate": "advancements.op.drowned.description"
         },
         "icon": {
             "item": "minecraft:kelp"
