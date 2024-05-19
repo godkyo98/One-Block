@@ -1,2 +1,3 @@
 # One-Block
-Thay đổi của one block phiên bản việt
+- Additional improvement of the One Block Ori version
+- Being able to play a multilingual
